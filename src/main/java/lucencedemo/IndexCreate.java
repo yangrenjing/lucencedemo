@@ -11,6 +11,7 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
+import org.junit.Test;
 
 import java.io.File;
 import java.io.IOException;
@@ -23,7 +24,8 @@ import java.io.IOException;
  */
 public class IndexCreate {
 
-    public static void createIndex () throws IOException {
+    @Test
+    public  void createIndex () throws IOException {
         /*1.创建文档对象*/
         Document document = new Document();
 

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c423c2-627f-44af-8905-951b6361cba4" name="Default Changelist" comment="" />
+    <list default="true" id="34c423c2-627f-44af-8905-951b6361cba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demofromhow2j/MyLucence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lucencedemo/IndexCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lucencedemo/IndexCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lucencedemo/IndexCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lucencedemo/IndexCreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lucencedemo/IndexCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lucencedemo/IndexCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/lucencedemo/IndexCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lucencedemo/IndexCreateTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
   </component>
@@ -30,7 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z21RfbGdcGqbtLmSZSsqNc0rjO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -53,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MyLucence.testLucence">
     <configuration name="IndexCreateTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lucencedemo" />
       <extension name="coverage">
@@ -70,8 +84,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IndexCreate.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucencedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lucencedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lucencedemo" />
+      <option name="MAIN_CLASS_NAME" value="lucencedemo.IndexCreate" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLucence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucencedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demofromhow2j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demofromhow2j" />
+      <option name="MAIN_CLASS_NAME" value="demofromhow2j.MyLucence" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLucence.testLucence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucencedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demofromhow2j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demofromhow2j" />
+      <option name="MAIN_CLASS_NAME" value="demofromhow2j.MyLucence" />
+      <option name="METHOD_NAME" value="testLucence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyLucence.testLucence" />
+        <item itemvalue="JUnit.IndexCreate.createIndex" />
+        <item itemvalue="JUnit.MyLucence" />
         <item itemvalue="JUnit.IndexCreateTest.test" />
       </list>
     </recent_temporary>
@@ -86,11 +150,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584022367480</updated>
-      <workItem from="1584022370986" duration="2504000" />
+      <workItem from="1584022370986" duration="3324000" />
+      <workItem from="1584105749430" duration="5873000" />
+      <workItem from="1584156290736" duration="3820000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

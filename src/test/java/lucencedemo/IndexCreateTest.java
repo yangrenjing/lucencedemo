@@ -14,7 +14,7 @@ public class IndexCreateTest {
 
     @Test
     public void test () throws IOException {
-        IndexCreate.createIndex();
+//        IndexCreate.createIndex();
     }
 
 }
